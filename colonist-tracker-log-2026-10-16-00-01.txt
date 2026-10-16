@@ -1,0 +1,703 @@
+--- Colonist Tracker log, exported 2026-10-16T00:01:37.796Z, extension 1.2
+7:33:01 PM [extension] log: [CT] loaded v13
+7:33:01 PM [extension] log: [CT] ENV | extension 1.2 | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36 | screen 1536x960, window 1538x827, zoom 1.25 | https://colonist.io/
+7:35:13 PM [extension] log: [CT] watching log + panel (me=Buckie6400)
+7:35:13 PM [extension] log: [CT] LOG | 0 | Happy settling! Learn how to play in the rulebook . List of commands: /help
+7:35:13 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"0","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"0","dev":"0","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"0","dev":"0","knights":"0"},{"name":"Buckie6400","color":"3","hand":"0","dev":"0","knights":"0"}]
+7:35:13 PM [extension] log: [CT] MYDEV | {}
+7:35:13 PM [extension] log: [CT] BOX | open by default: Alonzo5638, Hebbe7723, MakeSumMoney
+7:35:13 PM [extension] log: [CT] BOX | Alonzo5638 | no cards
+7:35:13 PM [extension] log: [CT] BOX | Hebbe7723 | no cards
+7:35:13 PM [extension] log: [CT] BOX | MakeSumMoney | no cards
+7:35:13 PM [extension] log: [CT] TURN | Buckie6400
+7:35:25 PM [extension] log: [CT] GAP | missed 1..1
+7:35:25 PM [extension] log: [CT] LOG | 2 | Hebbe7723 has disconnected. A bot will take over next turn unless Hebbe7723 reconnects.
+7:35:28 PM [extension] log: [CT] LOG | 3 | Hebbe7723 has reconnected
+7:36:58 PM [extension] log: [CT] LOG | 4 | Buckie6400 placed a Settlement <settlement>
+7:37:01 PM [extension] log: [CT] TURN | Alonzo5638
+7:37:01 PM [extension] log: [CT] LOG | 5 | Buckie6400 placed a Road <road>
+7:37:06 PM [extension] log: [CT] GAP | missed 6..6
+7:37:06 PM [extension] log: [CT] LOG | 7 | Alonzo5638 placed a Settlement <settlement>
+7:37:08 PM [extension] log: [CT] TURN | Hebbe7723
+7:37:08 PM [extension] log: [CT] LOG | 8 | Alonzo5638 placed a Road <road>
+7:37:16 PM [extension] log: [CT] GAP | missed 9..9
+7:37:16 PM [extension] log: [CT] LOG | 10 | Hebbe7723 placed a Settlement <settlement>
+7:37:24 PM [extension] log: [CT] TURN | MakeSumMoney
+7:37:24 PM [extension] log: [CT] LOG | 11 | Hebbe7723 placed a Road <road>
+7:39:20 PM [extension] log: [CT] GAP | missed 12..12
+7:39:20 PM [extension] log: [CT] LOG | 13 | MakeSumMoney placed a Settlement <settlement>
+7:39:26 PM [extension] log: [CT] LOG | 14 | MakeSumMoney placed a Road <road>
+7:39:51 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"0","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"0","dev":"0","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"3","dev":"0","knights":"0"},{"name":"Buckie6400","color":"3","hand":"0","dev":"0","knights":"0"}]
+7:39:51 PM [extension] log: [CT] GAP | missed 15..15
+7:39:51 PM [extension] log: [CT] LOG | 16 | MakeSumMoney placed a Settlement <settlement>
+7:39:51 PM [extension] log: [CT] LOG | 17 | MakeSumMoney received starting resources <Lumber> <Ore> <Ore>
+7:39:51 PM [extension] log: [CT] BOX | MakeSumMoney | lumber 1, ore 2
+7:39:52 PM [extension] log: [CT] LOG | 18 | MakeSumMoney placed a Road <road>
+7:39:52 PM [extension] log: [CT] TURN | Hebbe7723 (after Alonzo5638)
+7:40:11 PM [extension] log: [CT] GAP | missed 19..19
+7:40:11 PM [extension] log: [CT] LOG | 20 | MakeSumMoney has disconnected. A bot will take over next turn unless MakeSumMoney reconnects.
+7:40:22 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"0","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"3","dev":"0","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"3","dev":"0","knights":"0"},{"name":"Buckie6400","color":"3","hand":"0","dev":"0","knights":"0"}]
+7:40:22 PM [extension] log: [CT] LOG | 21 | Hebbe7723 placed a Settlement <settlement>
+7:40:22 PM [extension] log: [CT] LOG | 22 | Hebbe7723 received starting resources <Lumber> <Brick> <Ore>
+7:40:22 PM [extension] log: [CT] BOX | Hebbe7723 | lumber 1, brick 1, ore 1
+7:40:24 PM [extension] log: [CT] LOG | 23 | Hebbe7723 placed a Road <road>
+7:40:24 PM [extension] log: [CT] TURN | Alonzo5638 (after Buckie6400)
+7:41:25 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"3","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"3","dev":"0","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"3","dev":"0","knights":"0"},{"name":"Buckie6400","color":"3","hand":"0","dev":"0","knights":"0"}]
+7:41:25 PM [extension] log: [CT] GAP | missed 24..24
+7:41:25 PM [extension] log: [CT] LOG | 25 | Alonzo5638 placed a Settlement <settlement>
+7:41:25 PM [extension] log: [CT] LOG | 26 | Alonzo5638 received starting resources <Grain> <Brick> <Lumber>
+7:41:25 PM [extension] log: [CT] BOX | Alonzo5638 | lumber 1, brick 1, grain 1
+7:41:27 PM [extension] log: [CT] LOG | 27 | Alonzo5638 placed a Road <road>
+7:41:27 PM [extension] log: [CT] TURN | Buckie6400 (after MakeSumMoney)
+7:41:28 PM [extension] log: [CT] MYHAND | OK actual={"lumber":0,"brick":0,"wool":0,"grain":0,"ore":0} tracked={"lumber":0,"brick":0,"wool":0,"grain":0,"ore":0}
+7:41:48 PM [extension] log: [CT] GAP | missed 28..28
+7:41:48 PM [extension] log: [CT] LOG | 29 | MakeSumMoney has reconnected
+7:42:29 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"3","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"3","dev":"0","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"3","dev":"0","knights":"0"},{"name":"Buckie6400","color":"3","hand":"3","dev":"0","knights":"0"}]
+7:42:29 PM [extension] log: [CT] LOG | 30 | Buckie6400 placed a Settlement <settlement>
+7:42:29 PM [extension] log: [CT] LOG | 31 | Buckie6400 received starting resources <Brick> <Wool> <Grain>
+7:42:30 PM [extension] log: [CT] LOG | 32 | Buckie6400 placed a Road <road>
+7:42:30 PM [extension] log: [CT] DICE | your roll: boxes over the dice slide aside (dice found; classes: dice-M9xGB5i5 / dice-M9xGB5i5)
+7:42:31 PM [extension] log: [CT] MYHAND | OK actual={"lumber":0,"brick":1,"wool":1,"grain":1,"ore":0} tracked={"lumber":0,"brick":1,"wool":1,"grain":1,"ore":0}
+7:42:32 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"5","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"3","dev":"0","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"3","dev":"0","knights":"0"},{"name":"Buckie6400","color":"3","hand":"4","dev":"0","knights":"0"}]
+7:42:32 PM [extension] log: [CT] GAP | missed 33..33
+7:42:32 PM [extension] log: [CT] LOG | 34 | Buckie6400 rolled <dice_3> <dice_2>
+7:42:32 PM [extension] log: [CT] DICE | rolled: boxes back
+7:42:32 PM [extension] log: [CT] LOG | 35 | Buckie6400 got <Lumber>
+7:42:32 PM [extension] log: [CT] LOG | 36 | Alonzo5638 got <Ore> <Lumber>
+7:42:32 PM [extension] log: [CT] BOX | Alonzo5638 | lumber 2, brick 1, grain 1, ore 1
+7:42:34 PM [extension] log: [CT] MYHAND | OK actual={"lumber":1,"brick":1,"wool":1,"grain":1,"ore":0} tracked={"lumber":1,"brick":1,"wool":1,"grain":1,"ore":0}
+7:43:32 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"5","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"3","dev":"0","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"3","dev":"0","knights":"0"},{"name":"Buckie6400","color":"3","hand":"2","dev":"0","knights":"0"}]
+7:43:32 PM [extension] log: [CT] LOG | 37 | Buckie6400 built a Road <road>
+7:43:33 PM [extension] log: [CT] TURN | Alonzo5638 (after Buckie6400)
+7:43:35 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"7","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"3","dev":"0","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"3","dev":"0","knights":"0"},{"name":"Buckie6400","color":"3","hand":"3","dev":"0","knights":"0"}]
+7:43:35 PM [extension] log: [CT] GAP | missed 38..38
+7:43:35 PM [extension] log: [CT] LOG | 39 | Alonzo5638 rolled <dice_1> <dice_4>
+7:43:35 PM [extension] log: [CT] LOG | 40 | Buckie6400 got <Lumber>
+7:43:35 PM [extension] log: [CT] LOG | 41 | Alonzo5638 got <Ore> <Lumber>
+7:43:35 PM [extension] log: [CT] BOX | Alonzo5638 | lumber 3, brick 1, grain 1, ore 2
+7:43:36 PM [extension] log: [CT] MYHAND | OK actual={"lumber":1,"brick":0,"wool":1,"grain":1,"ore":0} tracked={"lumber":1,"brick":0,"wool":1,"grain":1,"ore":0}
+7:43:55 PM [extension] log: [CT] TRADE | offer open from Alonzo5638: box copy flies to the offer (frame + tab in their colour), original stays
+7:43:55 PM [extension] log: [CT] LOG | 42 | Alonzo5638 wants to give <Lumber> for <Grain>
+7:44:02 PM [extension] log: [CT] LOG | 43 | Alonzo5638 wants to give <Lumber> for <Wool>
+7:44:13 PM [extension] log: [CT] TRADE | no offer open
+7:44:16 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"5","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"3","dev":"0","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"3","dev":"0","knights":"0"},{"name":"Buckie6400","color":"3","hand":"3","dev":"0","knights":"0"}]
+7:44:16 PM [extension] log: [CT] LOG | 44 | Alonzo5638 built a Road <road>
+7:44:16 PM [extension] log: [CT] BOX | Alonzo5638 | lumber 2, grain 1, ore 2
+7:44:19 PM [extension] log: [CT] TURN | Hebbe7723 (after Alonzo5638)
+7:44:21 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"6","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"3","dev":"0","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"4","dev":"0","knights":"0"},{"name":"Buckie6400","color":"3","hand":"3","dev":"0","knights":"0"}]
+7:44:21 PM [extension] log: [CT] GAP | missed 45..45
+7:44:21 PM [extension] log: [CT] LOG | 46 | Hebbe7723 rolled <dice_4> <dice_2>
+7:44:21 PM [extension] log: [CT] LOG | 47 | MakeSumMoney got <Lumber>
+7:44:21 PM [extension] log: [CT] LOG | 48 | Alonzo5638 got <Grain>
+7:44:21 PM [extension] log: [CT] BOX | Alonzo5638 | lumber 2, grain 2, ore 2
+7:44:21 PM [extension] log: [CT] BOX | MakeSumMoney | lumber 2, ore 2
+7:44:23 PM [extension] log: [CT] TURN | MakeSumMoney (after Hebbe7723)
+7:44:25 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"6","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"4","dev":"0","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"5","dev":"0","knights":"0"},{"name":"Buckie6400","color":"3","hand":"4","dev":"0","knights":"0"}]
+7:44:25 PM [extension] log: [CT] GAP | missed 49..49
+7:44:25 PM [extension] log: [CT] LOG | 50 | MakeSumMoney rolled <dice_5> <dice_4>
+7:44:25 PM [extension] log: [CT] LOG | 51 | Buckie6400 got <Grain>
+7:44:25 PM [extension] log: [CT] LOG | 52 | MakeSumMoney got <Ore>
+7:44:25 PM [extension] log: [CT] LOG | 53 | Hebbe7723 got <Ore>
+7:44:25 PM [extension] log: [CT] BOX | Hebbe7723 | lumber 1, brick 1, ore 2
+7:44:25 PM [extension] log: [CT] BOX | MakeSumMoney | lumber 2, ore 3
+7:44:27 PM [extension] log: [CT] MYHAND | OK actual={"lumber":1,"brick":0,"wool":1,"grain":2,"ore":0} tracked={"lumber":1,"brick":0,"wool":1,"grain":2,"ore":0}
+7:44:29 PM [extension] log: [CT] TRADE | offer open from MakeSumMoney: box copy flies to the offer (frame + tab in their colour), original stays
+7:44:29 PM [extension] log: [CT] LOG | 54 | MakeSumMoney wants to give <Ore> for <Brick>
+7:44:34 PM [extension] log: [CT] LOG | 55 | MakeSumMoney wants to give <Lumber> for <Brick>
+7:44:41 PM [extension] log: [CT] LOG | 56 | MakeSumMoney wants to give <Lumber> <Ore> for <Brick>
+7:44:51 PM [extension] log: [CT] TRADE | no offer open
+7:44:53 PM [extension] log: [CT] TURN | Buckie6400 (after MakeSumMoney)
+7:44:53 PM [extension] log: [CT] DICE | your roll: boxes over the dice slide aside (dice found; classes: dice-M9xGB5i5 / dice-M9xGB5i5)
+7:44:55 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"6","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"4","dev":"0","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"7","dev":"0","knights":"0"},{"name":"Buckie6400","color":"3","hand":"5","dev":"0","knights":"0"}]
+7:44:55 PM [extension] log: [CT] GAP | missed 57..57
+7:44:55 PM [extension] log: [CT] LOG | 58 | Buckie6400 rolled <dice_1> <dice_2>
+7:44:55 PM [extension] log: [CT] LOG | 59 | Buckie6400 got <Wool>
+7:44:55 PM [extension] log: [CT] DICE | rolled: boxes back
+7:44:55 PM [extension] log: [CT] LOG | 60 | MakeSumMoney got <Ore> <Wool>
+7:44:55 PM [extension] log: [CT] BOX | MakeSumMoney | lumber 2, wool 1, ore 4
+7:44:57 PM [extension] log: [CT] MYHAND | OK actual={"lumber":1,"brick":0,"wool":2,"grain":2,"ore":0} tracked={"lumber":1,"brick":0,"wool":2,"grain":2,"ore":0}
+7:45:01 PM [extension] log: [CT] MYDEV | image seen: card_rescardback (enum 9) -> not a dev card, skipped
+7:45:03 PM [extension] log: [CT] LOG | 61 | Buckie6400 wants to give <Grain> for <Brick>
+7:45:13 PM [extension] log: [CT] TURN | Alonzo5638 (after Buckie6400)
+7:45:17 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"6","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"5","dev":"0","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"8","dev":"0","knights":"0"},{"name":"Buckie6400","color":"3","hand":"6","dev":"0","knights":"0"}]
+7:45:17 PM [extension] log: [CT] GAP | missed 62..62
+7:45:17 PM [extension] log: [CT] LOG | 63 | Alonzo5638 rolled <dice_3> <dice_6>
+7:45:17 PM [extension] log: [CT] LOG | 64 | Buckie6400 got <Grain>
+7:45:17 PM [extension] log: [CT] LOG | 65 | MakeSumMoney got <Ore>
+7:45:17 PM [extension] log: [CT] LOG | 66 | Hebbe7723 got <Ore>
+7:45:17 PM [extension] log: [CT] BOX | Hebbe7723 | lumber 1, brick 1, ore 3
+7:45:17 PM [extension] log: [CT] BOX | MakeSumMoney | lumber 2, wool 1, ore 5
+7:45:19 PM [extension] log: [CT] MYHAND | OK actual={"lumber":1,"brick":0,"wool":2,"grain":3,"ore":0} tracked={"lumber":1,"brick":0,"wool":2,"grain":3,"ore":0}
+7:45:25 PM [extension] log: [CT] TRADE | offer open from Alonzo5638: box copy flies to the offer (frame + tab in their colour), original stays
+7:45:25 PM [extension] log: [CT] LOG | 67 | Alonzo5638 wants to give <Lumber> for <Wool>
+7:45:31 PM [extension] log: [CT] TRADE | no offer open
+7:45:34 PM [extension] log: [CT] TRADE | offer open from Alonzo5638: box copy flies to the offer (frame + tab in their colour), original stays
+7:45:34 PM [extension] log: [CT] LOG | 68 | Alonzo5638 wants to give <Lumber> for <Ore>
+7:45:39 PM [extension] log: [CT] TRADE | no offer open
+7:45:39 PM [extension] log: [CT] LOG | 69 | Alonzo5638 gave <Lumber> and got <Ore> from Hebbe7723
+7:45:39 PM [extension] log: [CT] BOX | Alonzo5638 | lumber 1, grain 2, ore 3
+7:45:39 PM [extension] log: [CT] BOX | Hebbe7723 | lumber 2, brick 1, ore 2
+7:45:41 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"1","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"5","dev":"0","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"8","dev":"0","knights":"0"},{"name":"Buckie6400","color":"3","hand":"6","dev":"0","knights":"0"}]
+7:45:41 PM [extension] log: [CT] LOG | 70 | Alonzo5638 built a City <city> ( +1 VP )
+7:45:41 PM [extension] log: [CT] BOX | Alonzo5638 | lumber 1
+7:45:43 PM [extension] log: [CT] TURN | Hebbe7723 (after Alonzo5638)
+7:45:44 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"3","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"7","dev":"0","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"8","dev":"0","knights":"0"},{"name":"Buckie6400","color":"3","hand":"8","dev":"0","knights":"0"}]
+7:45:44 PM [extension] log: [CT] GAP | missed 71..71
+7:45:44 PM [extension] log: [CT] LOG | 72 | Hebbe7723 rolled <dice_5> <dice_5>
+7:45:44 PM [extension] log: [CT] LOG | 73 | Buckie6400 got <Wool> <Brick>
+7:45:44 PM [extension] log: [CT] LOG | 74 | Alonzo5638 got <Brick> <Brick>
+7:45:44 PM [extension] log: [CT] LOG | 75 | Hebbe7723 got <Wool> <Brick>
+7:45:44 PM [extension] log: [CT] BOX | Alonzo5638 | lumber 1, brick 2
+7:45:44 PM [extension] log: [CT] BOX | Hebbe7723 | lumber 2, brick 2, wool 1, ore 2
+7:45:45 PM [extension] log: [CT] MYHAND | OK actual={"lumber":1,"brick":1,"wool":3,"grain":3,"ore":0} tracked={"lumber":1,"brick":1,"wool":3,"grain":3,"ore":0}
+7:45:49 PM [extension] log: [CT] TRADE | offer open from Hebbe7723: box copy flies to the offer (frame + tab in their colour), original stays
+7:45:49 PM [extension] log: [CT] LOG | 76 | Hebbe7723 wants to give <Ore> for <Grain>
+7:46:00 PM [extension] log: [CT] TRADE | no offer open
+7:46:00 PM [extension] log: [CT] LOG | 77 | Hebbe7723 gave <Ore> and got <Grain> from Buckie6400
+7:46:00 PM [extension] log: [CT] BOX | Hebbe7723 | lumber 2, brick 2, wool 1, grain 1, ore 1
+7:46:02 PM [extension] log: [CT] MYHAND | OK actual={"lumber":1,"brick":1,"wool":3,"grain":2,"ore":1} tracked={"lumber":1,"brick":1,"wool":3,"grain":2,"ore":1}
+7:46:03 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"3","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"5","dev":"0","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"8","dev":"0","knights":"0"},{"name":"Buckie6400","color":"3","hand":"8","dev":"0","knights":"0"}]
+7:46:03 PM [extension] log: [CT] LOG | 78 | Hebbe7723 built a Road <road>
+7:46:03 PM [extension] log: [CT] BOX | Hebbe7723 | lumber 1, brick 1, wool 1, grain 1, ore 1
+7:46:05 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"3","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"1","dev":"0","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"8","dev":"0","knights":"0"},{"name":"Buckie6400","color":"3","hand":"8","dev":"0","knights":"0"}]
+7:46:05 PM [extension] log: [CT] LOG | 79 | Hebbe7723 built a Settlement <settlement> ( +1 VP )
+7:46:05 PM [extension] log: [CT] BOX | Hebbe7723 | ore 1
+7:46:06 PM [extension] log: [CT] TURN | MakeSumMoney (after Hebbe7723)
+7:46:07 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"5","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"2","dev":"0","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"9","dev":"0","knights":"0"},{"name":"Buckie6400","color":"3","hand":"8","dev":"0","knights":"0"}]
+7:46:07 PM [extension] log: [CT] GAP | missed 80..80
+7:46:07 PM [extension] log: [CT] LOG | 81 | MakeSumMoney rolled <dice_2> <dice_6>
+7:46:07 PM [extension] log: [CT] LOG | 82 | MakeSumMoney got <Grain>
+7:46:07 PM [extension] log: [CT] LOG | 83 | Alonzo5638 got <Grain> <Grain>
+7:46:07 PM [extension] log: [CT] LOG | 84 | Hebbe7723 got <Brick>
+7:46:07 PM [extension] log: [CT] BOX | Alonzo5638 | lumber 1, brick 2, grain 2
+7:46:07 PM [extension] log: [CT] BOX | Hebbe7723 | brick 1, ore 1
+7:46:07 PM [extension] log: [CT] BOX | MakeSumMoney | lumber 2, wool 1, grain 1, ore 5
+7:46:11 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"5","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"2","dev":"0","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"6","dev":"1","knights":"0"},{"name":"Buckie6400","color":"3","hand":"8","dev":"0","knights":"0"}]
+7:46:11 PM [extension] log: [CT] LOG | 85 | MakeSumMoney bought <Development Card>
+7:46:11 PM [extension] log: [CT] DEV | MakeSumMoney bought (24 left): deck before Knight 56%, Victory Point 20%, Road Building 8%, Year of Plenty 8%, Monopoly 8% | their new card Knight 56%, Victory Point 20%, Road Building 8%, Year of Plenty 8%, Monopoly 8%
+7:46:11 PM [extension] log: [CT] BOX | MakeSumMoney | lumber 2, ore 4
+7:46:15 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"5","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"2","dev":"0","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"3","dev":"1","knights":"0"},{"name":"Buckie6400","color":"3","hand":"8","dev":"0","knights":"0"}]
+7:46:15 PM [extension] log: [CT] LOG | 86 | MakeSumMoney gave bank <Ore> <Ore> <Ore> <Ore> and took <Brick>
+7:46:15 PM [extension] log: [CT] BOX | MakeSumMoney | lumber 2, brick 1
+7:46:17 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"5","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"2","dev":"0","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"1","dev":"1","knights":"0"},{"name":"Buckie6400","color":"3","hand":"8","dev":"0","knights":"0"}]
+7:46:17 PM [extension] log: [CT] LOG | 87 | MakeSumMoney built a Road <road>
+7:46:17 PM [extension] log: [CT] BOX | MakeSumMoney | lumber 1
+7:46:18 PM [extension] log: [CT] TURN | Buckie6400 (after MakeSumMoney)
+7:46:18 PM [extension] log: [CT] DICE | your roll: boxes over the dice slide aside (dice found; classes: dice-M9xGB5i5 / dice-M9xGB5i5)
+7:46:20 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"7","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"3","dev":"0","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"2","dev":"1","knights":"0"},{"name":"Buckie6400","color":"3","hand":"8","dev":"0","knights":"0"}]
+7:46:20 PM [extension] log: [CT] GAP | missed 88..88
+7:46:20 PM [extension] log: [CT] LOG | 89 | Buckie6400 rolled <dice_4> <dice_4>
+7:46:20 PM [extension] log: [CT] LOG | 90 | MakeSumMoney got <Grain>
+7:46:20 PM [extension] log: [CT] DICE | rolled: boxes back
+7:46:20 PM [extension] log: [CT] BOX | MakeSumMoney | lumber 1, grain 1
+7:46:20 PM [extension] log: [CT] LOG | 91 | Alonzo5638 got <Grain> <Grain>
+7:46:20 PM [extension] log: [CT] LOG | 92 | Hebbe7723 got <Brick>
+7:46:20 PM [extension] log: [CT] BOX | Alonzo5638 | lumber 1, brick 2, grain 4
+7:46:20 PM [extension] log: [CT] BOX | Hebbe7723 | brick 2, ore 1
+7:46:35 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"7","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"3","dev":"0","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"2","dev":"1","knights":"0"},{"name":"Buckie6400","color":"3","hand":"6","dev":"0","knights":"0"}]
+7:46:35 PM [extension] log: [CT] LOG | 93 | Buckie6400 built a Road <road>
+7:46:37 PM [extension] log: [CT] MYHAND | OK actual={"lumber":0,"brick":0,"wool":3,"grain":2,"ore":1} tracked={"lumber":0,"brick":0,"wool":3,"grain":2,"ore":1}
+7:46:37 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"7","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"3","dev":"0","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"2","dev":"1","knights":"0"},{"name":"Buckie6400","color":"3","hand":"3","dev":"1","knights":"0"}]
+7:46:37 PM [extension] log: [CT] LOG | 94 | Buckie6400 bought <Development Card>
+7:46:37 PM [extension] log: [CT] DEV | Buckie6400 bought (23 left): deck before Knight 56%, Victory Point 20%, Road Building 8%, Year of Plenty 8%, Monopoly 8% | their new card (yours: known) | COUNTS OFF: 25 unaccounted vs 23 in the deck + 1 held
+7:46:38 PM [extension] log: [CT] TURN | Alonzo5638 (after Buckie6400)
+7:46:39 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"9","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"5","dev":"0","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"2","dev":"1","knights":"0"},{"name":"Buckie6400","color":"3","hand":"5","dev":"1","knights":"0"}]
+7:46:39 PM [extension] log: [CT] MYDEV | image seen: card_knight (enum 11) -> Knight
+7:46:39 PM [extension] log: [CT] MYDEV | {"Knight":1}
+7:46:39 PM [extension] log: [CT] GAP | missed 95..95
+7:46:39 PM [extension] log: [CT] LOG | 96 | Alonzo5638 rolled <dice_5> <dice_5>
+7:46:39 PM [extension] log: [CT] LOG | 97 | Buckie6400 got <Wool> <Brick>
+7:46:39 PM [extension] log: [CT] LOG | 98 | Alonzo5638 got <Brick> <Brick>
+7:46:39 PM [extension] log: [CT] LOG | 99 | Hebbe7723 got <Wool> <Brick>
+7:46:39 PM [extension] log: [CT] BOX | Alonzo5638 | lumber 1, brick 4, grain 4
+7:46:39 PM [extension] log: [CT] BOX | Hebbe7723 | brick 3, wool 1, ore 1
+7:46:41 PM [extension] log: [CT] MYHAND | OK actual={"lumber":0,"brick":1,"wool":3,"grain":1,"ore":0} tracked={"lumber":0,"brick":1,"wool":3,"grain":1,"ore":0}
+7:46:45 PM [extension] log: [CT] TRADE | offer open from Alonzo5638: box copy flies to the offer (frame + tab in their colour), original stays
+7:46:45 PM [extension] log: [CT] LOG | 100 | Alonzo5638 wants to give <Brick> for <Lumber>
+7:46:50 PM [extension] log: [CT] TRADE | no offer open
+7:46:50 PM [extension] log: [CT] LOG | 101 | Alonzo5638 gave <Brick> and got <Lumber> from MakeSumMoney
+7:46:50 PM [extension] log: [CT] BOX | Alonzo5638 | lumber 2, brick 3, grain 4
+7:46:50 PM [extension] log: [CT] BOX | MakeSumMoney | brick 1, grain 1
+7:46:53 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"7","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"5","dev":"0","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"2","dev":"1","knights":"0"},{"name":"Buckie6400","color":"3","hand":"5","dev":"1","knights":"0"}]
+7:46:53 PM [extension] log: [CT] LOG | 102 | Alonzo5638 built a Road <road>
+7:46:53 PM [extension] log: [CT] BOX | Alonzo5638 | lumber 1, brick 2, grain 4
+7:46:54 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"5","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"5","dev":"0","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"2","dev":"1","knights":"0"},{"name":"Buckie6400","color":"3","hand":"5","dev":"1","knights":"0"}]
+7:46:54 PM [extension] log: [CT] LOG | 103 | Alonzo5638 built a Road <road>
+7:46:54 PM [extension] log: [CT] BOX | Alonzo5638 | brick 1, grain 4
+7:47:00 PM [extension] log: [CT] TRADE | offer open from Alonzo5638: box copy flies to the offer (frame + tab in their colour), original stays
+7:47:00 PM [extension] log: [CT] LOG | 104 | Alonzo5638 wants to give <Grain> <Grain> for <Wool>
+7:47:13 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"4","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"6","dev":"0","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"2","dev":"1","knights":"0"},{"name":"Buckie6400","color":"3","hand":"5","dev":"1","knights":"0"}]
+7:47:13 PM [extension] log: [CT] TRADE | no offer open
+7:47:13 PM [extension] log: [CT] LOG | 105 | Alonzo5638 gave <Grain> <Grain> and got <Wool> from Hebbe7723
+7:47:13 PM [extension] log: [CT] BOX | Alonzo5638 | brick 1, wool 1, grain 2
+7:47:13 PM [extension] log: [CT] BOX | Hebbe7723 | brick 3, grain 2, ore 1
+7:47:17 PM [extension] log: [CT] TRADE | offer open from Alonzo5638: box copy flies to the offer (frame + tab in their colour), original stays
+7:47:17 PM [extension] log: [CT] LOG | 106 | Alonzo5638 wants to give <Grain> for <Lumber>
+7:47:17 PM [extension] log: [CT] WARN | 106 | Alonzo5638 asked for lumber, but no opponent can hold one by our tracking and you hold 0: the tracker lost a lumber | your hand actual {"lumber":0,"brick":1,"wool":3,"grain":1,"ore":0} tracked {"lumber":0,"brick":1,"wool":3,"grain":1,"ore":0}
+7:47:17 PM [extension] log: [CT] WARN | 106 | Alonzo5638 asked for lumber, but by the log no hand holds any (colonist refuses such offers): missed rows?
+7:47:22 PM [extension] log: [CT] TRADE | no offer open
+7:47:22 PM [extension] log: [CT] TURN | Hebbe7723 (after Alonzo5638)
+7:47:26 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"4","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"7","dev":"0","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"2","dev":"1","knights":"0"},{"name":"Buckie6400","color":"3","hand":"5","dev":"1","knights":"0"}]
+7:47:26 PM [extension] log: [CT] GAP | missed 107..107
+7:47:26 PM [extension] log: [CT] LOG | 108 | Hebbe7723 rolled <dice_1> <dice_1>
+7:47:26 PM [extension] log: [CT] LOG | 109 | Hebbe7723 got <Lumber>
+7:47:26 PM [extension] log: [CT] BOX | Hebbe7723 | lumber 1, brick 3, grain 2, ore 1
+7:47:31 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"4","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"5","dev":"0","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"2","dev":"1","knights":"0"},{"name":"Buckie6400","color":"3","hand":"5","dev":"1","knights":"0"}]
+7:47:31 PM [extension] log: [CT] LOG | 110 | Hebbe7723 built a Road <road>
+7:47:31 PM [extension] log: [CT] BOX | Hebbe7723 | brick 2, grain 2, ore 1
+7:47:33 PM [extension] log: [CT] TURN | MakeSumMoney (after Hebbe7723)
+7:47:34 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"4","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"7","dev":"0","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"3","dev":"1","knights":"0"},{"name":"Buckie6400","color":"3","hand":"5","dev":"1","knights":"0"}]
+7:47:34 PM [extension] log: [CT] GAP | missed 111..111
+7:47:34 PM [extension] log: [CT] LOG | 112 | MakeSumMoney rolled <dice_1> <dice_3>
+7:47:34 PM [extension] log: [CT] LOG | 113 | MakeSumMoney got <Wool>
+7:47:34 PM [extension] log: [CT] BOX | MakeSumMoney | brick 1, wool 1, grain 1
+7:47:34 PM [extension] log: [CT] LOG | 114 | Hebbe7723 got <Lumber> <Lumber>
+7:47:34 PM [extension] log: [CT] BOX | Hebbe7723 | lumber 2, brick 2, grain 2, ore 1
+7:47:36 PM [extension] log: [CT] TURN | Buckie6400 (after MakeSumMoney)
+7:47:36 PM [extension] log: [CT] DICE | your roll: boxes over the dice slide aside (dice found; classes: dice-M9xGB5i5 / dice-M9xGB5i5)
+7:47:39 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"4","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"7","dev":"0","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"3","dev":"1","knights":"0"},{"name":"Buckie6400","color":"3","hand":"5","dev":"0","knights":"1"}]
+7:47:39 PM [extension] log: [CT] GAP | missed 115..115
+7:47:39 PM [extension] log: [CT] LOG | 116 | Buckie6400 used Knight <Knight>
+7:47:39 PM [extension] log: [CT] MYDEV | {}
+7:47:43 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"4","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"6","dev":"0","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"3","dev":"1","knights":"0"},{"name":"Buckie6400","color":"3","hand":"6","dev":"0","knights":"1"}]
+7:47:43 PM [extension] log: [CT] LOG | 117 | Buckie6400 moved Robber <robber> to <prob_8> <brick tile>
+7:47:43 PM [extension] log: [CT] LOG | 118 | You stole <Lumber> from Hebbe7723
+7:47:43 PM [extension] log: [CT] BOX | Hebbe7723 | lumber 1, brick 2, grain 2, ore 1
+7:47:45 PM [extension] log: [CT] MYHAND | OK actual={"lumber":1,"brick":1,"wool":3,"grain":1,"ore":0} tracked={"lumber":1,"brick":1,"wool":3,"grain":1,"ore":0}
+7:47:47 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"5","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"6","dev":"0","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"4","dev":"1","knights":"0"},{"name":"Buckie6400","color":"3","hand":"6","dev":"0","knights":"1"}]
+7:47:47 PM [extension] log: [CT] LOG | 119 | Buckie6400 rolled <dice_3> <dice_3>
+7:47:47 PM [extension] log: [CT] DICE | rolled: boxes back
+7:47:47 PM [extension] log: [CT] LOG | 120 | MakeSumMoney got <Lumber>
+7:47:47 PM [extension] log: [CT] LOG | 121 | Alonzo5638 got <Grain>
+7:47:47 PM [extension] log: [CT] BOX | Alonzo5638 | brick 1, wool 1, grain 3
+7:47:47 PM [extension] log: [CT] BOX | MakeSumMoney | lumber 1, brick 1, wool 1, grain 1
+7:47:50 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"5","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"6","dev":"0","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"4","dev":"1","knights":"0"},{"name":"Buckie6400","color":"3","hand":"2","dev":"0","knights":"1"}]
+7:47:50 PM [extension] log: [CT] LOG | 122 | Buckie6400 built a Settlement <settlement> ( +1 VP )
+7:47:51 PM [extension] log: [CT] MYHAND | OK actual={"lumber":0,"brick":0,"wool":2,"grain":0,"ore":0} tracked={"lumber":0,"brick":0,"wool":2,"grain":0,"ore":0}
+7:47:52 PM [extension] log: [CT] TURN | Alonzo5638 (after Buckie6400)
+7:47:53 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"6","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"6","dev":"0","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"5","dev":"1","knights":"0"},{"name":"Buckie6400","color":"3","hand":"2","dev":"0","knights":"1"}]
+7:47:53 PM [extension] log: [CT] GAP | missed 123..123
+7:47:53 PM [extension] log: [CT] LOG | 124 | Alonzo5638 rolled <dice_5> <dice_1>
+7:47:53 PM [extension] log: [CT] LOG | 125 | MakeSumMoney got <Lumber>
+7:47:53 PM [extension] log: [CT] BOX | MakeSumMoney | lumber 2, brick 1, wool 1, grain 1
+7:47:53 PM [extension] log: [CT] LOG | 126 | Alonzo5638 got <Grain>
+7:47:53 PM [extension] log: [CT] BOX | Alonzo5638 | brick 1, wool 1, grain 4
+7:47:59 PM [extension] log: [CT] TRADE | offer open from Alonzo5638: box copy flies to the offer (frame + tab in their colour), original stays
+7:47:59 PM [extension] log: [CT] LOG | 127 | Alonzo5638 wants to give <Grain> <Grain> for <Lumber>
+7:48:05 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"5","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"6","dev":"0","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"6","dev":"1","knights":"0"},{"name":"Buckie6400","color":"3","hand":"2","dev":"0","knights":"1"}]
+7:48:05 PM [extension] log: [CT] TRADE | no offer open
+7:48:05 PM [extension] log: [CT] LOG | 128 | Alonzo5638 gave <Grain> <Grain> and got <Lumber> from MakeSumMoney
+7:48:05 PM [extension] log: [CT] BOX | Alonzo5638 | lumber 1, brick 1, wool 1, grain 2
+7:48:05 PM [extension] log: [CT] BOX | MakeSumMoney | lumber 1, brick 1, wool 1, grain 3
+7:48:10 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"1","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"6","dev":"0","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"6","dev":"1","knights":"0"},{"name":"Buckie6400","color":"3","hand":"2","dev":"0","knights":"1"}]
+7:48:10 PM [extension] log: [CT] LOG | 129 | Alonzo5638 built a Settlement <settlement> ( +1 VP )
+7:48:10 PM [extension] log: [CT] BOX | Alonzo5638 | grain 1
+7:48:14 PM [extension] log: [CT] TURN | Hebbe7723 (after Alonzo5638)
+7:48:16 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"3","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"6","dev":"0","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"7","dev":"1","knights":"0"},{"name":"Buckie6400","color":"3","hand":"2","dev":"0","knights":"1"}]
+7:48:16 PM [extension] log: [CT] GAP | missed 130..130
+7:48:16 PM [extension] log: [CT] LOG | 131 | Hebbe7723 rolled <dice_3> <dice_3>
+7:48:16 PM [extension] log: [CT] LOG | 132 | MakeSumMoney got <Lumber>
+7:48:16 PM [extension] log: [CT] BOX | MakeSumMoney | lumber 2, brick 1, wool 1, grain 3
+7:48:16 PM [extension] log: [CT] LOG | 133 | Alonzo5638 got <Grain> <Grain>
+7:48:16 PM [extension] log: [CT] BOX | Alonzo5638 | grain 3
+7:48:20 PM [extension] log: [CT] TRADE | offer open from Hebbe7723: box copy flies to the offer (frame + tab in their colour), original stays
+7:48:20 PM [extension] log: [CT] LOG | 134 | Hebbe7723 wants to give <Grain> for <Wool>
+7:48:26 PM [extension] log: [CT] LOG | 135 | Hebbe7723 wants to give <Brick> for <Wool>
+7:48:35 PM [extension] log: [CT] TRADE | no offer open
+7:48:40 PM [extension] log: [CT] TURN | MakeSumMoney (after Hebbe7723)
+7:48:43 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"5","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"6","dev":"0","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"8","dev":"1","knights":"0"},{"name":"Buckie6400","color":"3","hand":"2","dev":"0","knights":"1"}]
+7:48:43 PM [extension] log: [CT] GAP | missed 136..136
+7:48:43 PM [extension] log: [CT] LOG | 137 | MakeSumMoney rolled <dice_3> <dice_3>
+7:48:43 PM [extension] log: [CT] LOG | 138 | MakeSumMoney got <Lumber>
+7:48:43 PM [extension] log: [CT] BOX | MakeSumMoney | lumber 3, brick 1, wool 1, grain 3
+7:48:43 PM [extension] log: [CT] LOG | 139 | Alonzo5638 got <Grain> <Grain>
+7:48:43 PM [extension] log: [CT] BOX | Alonzo5638 | grain 5
+7:48:45 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"5","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"6","dev":"0","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"4","dev":"1","knights":"0"},{"name":"Buckie6400","color":"3","hand":"2","dev":"0","knights":"1"}]
+7:48:45 PM [extension] log: [CT] LOG | 140 | MakeSumMoney built a Settlement <settlement> ( +1 VP )
+7:48:45 PM [extension] log: [CT] BOX | MakeSumMoney | lumber 2, grain 2
+7:48:49 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"5","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"6","dev":"0","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"3","dev":"1","knights":"0"},{"name":"Buckie6400","color":"3","hand":"2","dev":"0","knights":"1"}]
+7:48:49 PM [extension] log: [CT] LOG | 141 | MakeSumMoney gave bank <Grain> <Grain> and took <Brick>
+7:48:49 PM [extension] log: [CT] BOX | MakeSumMoney | lumber 2, brick 1
+7:48:50 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"5","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"6","dev":"0","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"1","dev":"1","knights":"0"},{"name":"Buckie6400","color":"3","hand":"2","dev":"0","knights":"1"}]
+7:48:50 PM [extension] log: [CT] LOG | 142 | MakeSumMoney built a Road <road>
+7:48:50 PM [extension] log: [CT] BOX | MakeSumMoney | lumber 1
+7:48:52 PM [extension] log: [CT] TURN | Buckie6400 (after MakeSumMoney)
+7:48:52 PM [extension] log: [CT] DICE | your roll: boxes over the dice slide aside (dice found; classes: dice-M9xGB5i5 / dice-M9xGB5i5)
+7:48:53 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"8","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"6","dev":"0","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"1","dev":"1","knights":"0"},{"name":"Buckie6400","color":"3","hand":"3","dev":"0","knights":"1"}]
+7:48:53 PM [extension] log: [CT] GAP | missed 143..143
+7:48:53 PM [extension] log: [CT] LOG | 144 | Buckie6400 rolled <dice_3> <dice_2>
+7:48:53 PM [extension] log: [CT] DICE | rolled: boxes back
+7:48:53 PM [extension] log: [CT] LOG | 145 | Buckie6400 got <Lumber>
+7:48:53 PM [extension] log: [CT] LOG | 146 | Alonzo5638 got <Ore> <Ore> <Lumber>
+7:48:53 PM [extension] log: [CT] BOX | Alonzo5638 | lumber 1, grain 5, ore 2
+7:48:54 PM [extension] log: [CT] MYHAND | OK actual={"lumber":1,"brick":0,"wool":2,"grain":0,"ore":0} tracked={"lumber":1,"brick":0,"wool":2,"grain":0,"ore":0}
+7:49:08 PM [extension] log: [CT] TURN | Alonzo5638 (after Buckie6400)
+7:49:10 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"10","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"6","dev":"0","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"3","dev":"1","knights":"0"},{"name":"Buckie6400","color":"3","hand":"3","dev":"0","knights":"1"}]
+7:49:10 PM [extension] log: [CT] GAP | missed 147..147
+7:49:10 PM [extension] log: [CT] LOG | 148 | Alonzo5638 rolled <dice_3> <dice_3>
+7:49:10 PM [extension] log: [CT] LOG | 149 | MakeSumMoney got <Lumber> <Lumber>
+7:49:10 PM [extension] log: [CT] BOX | MakeSumMoney | lumber 3
+7:49:10 PM [extension] log: [CT] LOG | 150 | Alonzo5638 got <Grain> <Grain>
+7:49:10 PM [extension] log: [CT] BOX | Alonzo5638 | lumber 1, grain 7, ore 2
+7:49:30 PM [extension] log: [CT] TRADE | offer open from Alonzo5638: box copy flies to the offer (frame + tab in their colour), original stays
+7:49:30 PM [extension] log: [CT] LOG | 151 | Alonzo5638 wants to give <Grain> <Grain> for <Ore>
+7:49:36 PM [extension] log: [CT] TRADE | no offer open
+7:49:40 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"7","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"6","dev":"0","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"3","dev":"1","knights":"0"},{"name":"Buckie6400","color":"3","hand":"3","dev":"0","knights":"1"}]
+7:49:40 PM [extension] log: [CT] LOG | 152 | Alonzo5638 gave bank <Grain> <Grain> <Grain> <Grain> and took <Ore>
+7:49:40 PM [extension] log: [CT] BOX | Alonzo5638 | lumber 1, grain 3, ore 3
+7:49:41 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"2","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"6","dev":"0","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"3","dev":"1","knights":"0"},{"name":"Buckie6400","color":"3","hand":"3","dev":"0","knights":"1"}]
+7:49:41 PM [extension] log: [CT] LOG | 153 | Alonzo5638 built a City <city> ( +1 VP )
+7:49:41 PM [extension] log: [CT] BOX | Alonzo5638 | lumber 1, grain 1
+7:49:43 PM [extension] log: [CT] TURN | Hebbe7723 (after Alonzo5638)
+7:49:45 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"6","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"6","dev":"0","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"3","dev":"1","knights":"0"},{"name":"Buckie6400","color":"3","hand":"4","dev":"0","knights":"1"}]
+7:49:45 PM [extension] log: [CT] GAP | missed 154..154
+7:49:45 PM [extension] log: [CT] LOG | 155 | Hebbe7723 rolled <dice_4> <dice_1>
+7:49:45 PM [extension] log: [CT] LOG | 156 | Buckie6400 got <Lumber>
+7:49:45 PM [extension] log: [CT] LOG | 157 | Alonzo5638 got <Ore> <Ore> <Lumber> <Lumber>
+7:49:45 PM [extension] log: [CT] BOX | Alonzo5638 | lumber 3, grain 1, ore 2
+7:49:47 PM [extension] log: [CT] MYHAND | OK actual={"lumber":2,"brick":0,"wool":2,"grain":0,"ore":0} tracked={"lumber":2,"brick":0,"wool":2,"grain":0,"ore":0}
+7:49:50 PM [extension] log: [CT] TRADE | offer open from Hebbe7723: box copy flies to the offer (frame + tab in their colour), original stays
+7:49:50 PM [extension] log: [CT] LOG | 158 | Hebbe7723 wants to give <Brick> for <Wool>
+7:49:59 PM [extension] log: [CT] TRADE | no offer open
+7:49:59 PM [extension] log: [CT] LOG | 159 | Hebbe7723 gave <Brick> and got <Wool> from Buckie6400
+7:49:59 PM [extension] log: [CT] BOX | Hebbe7723 | lumber 1, brick 1, wool 1, grain 2, ore 1
+7:50:01 PM [extension] log: [CT] MYHAND | OK actual={"lumber":2,"brick":1,"wool":1,"grain":0,"ore":0} tracked={"lumber":2,"brick":1,"wool":1,"grain":0,"ore":0}
+7:50:02 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"6","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"2","dev":"0","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"3","dev":"1","knights":"0"},{"name":"Buckie6400","color":"3","hand":"4","dev":"0","knights":"1"}]
+7:50:02 PM [extension] log: [CT] LOG | 160 | Hebbe7723 built a Settlement <settlement> ( +1 VP )
+7:50:02 PM [extension] log: [CT] BOX | Hebbe7723 | grain 1, ore 1
+7:50:04 PM [extension] log: [CT] TURN | MakeSumMoney (after Hebbe7723)
+7:50:05 PM [extension] log: [CT] GAP | missed 161..161
+7:50:05 PM [extension] log: [CT] LOG | 162 | MakeSumMoney rolled <dice_6> <dice_1>
+7:50:15 PM [extension] log: [CT] LOG | 163 | MakeSumMoney moved Robber <robber> to <prob_5> <lumber tile>
+7:50:16 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"5","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"2","dev":"0","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"4","dev":"1","knights":"0"},{"name":"Buckie6400","color":"3","hand":"4","dev":"0","knights":"1"}]
+7:50:16 PM [extension] log: [CT] LOG | 164 | MakeSumMoney stole <Resource Card> from Alonzo5638
+7:50:16 PM [extension] log: [CT] BOX | Alonzo5638 | lumber 2, ore 1, ? 2
+7:50:16 PM [extension] log: [CT] BOX | MakeSumMoney | lumber 3, ? 1
+7:50:18 PM [extension] log: [CT] TURN | Buckie6400 (after MakeSumMoney)
+7:50:18 PM [extension] log: [CT] DICE | your roll: boxes over the dice slide aside (dice found; classes: dice-M9xGB5i5 / dice-M9xGB5i5)
+7:50:20 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"7","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"2","dev":"0","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"4","dev":"1","knights":"0"},{"name":"Buckie6400","color":"3","hand":"4","dev":"0","knights":"1"}]
+7:50:20 PM [extension] log: [CT] GAP | missed 165..165
+7:50:20 PM [extension] log: [CT] LOG | 166 | Buckie6400 rolled <dice_4> <dice_1>
+7:50:20 PM [extension] log: [CT] DICE | rolled: boxes back
+7:50:20 PM [extension] log: [CT] VP | MakeSumMoney: card 1 55% (held 3) | blink
+7:50:20 PM [extension] log: [CT] LOG | 167 | <prob_5> <lumber tile> is blocked by the Robber. No resources produced
+7:50:20 PM [extension] log: [CT] LOG | 168 | Alonzo5638 got <Ore> <Ore>
+7:50:20 PM [extension] log: [CT] BOX | Alonzo5638 | lumber 2, ore 3, ? 2
+7:50:56 PM [extension] log: [CT] LOG | 169 | MakeSumMoney has disconnected. A bot will take over next turn unless MakeSumMoney reconnects.
+7:51:02 PM [extension] log: [CT] LOG | 170 | MakeSumMoney has reconnected
+7:51:07 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"7","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"2","dev":"0","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"4","dev":"1","knights":"0"},{"name":"Buckie6400","color":"3","hand":"2","dev":"0","knights":"1"}]
+7:51:07 PM [extension] log: [CT] LOG | 171 | Buckie6400 built a Road <road>
+7:51:08 PM [extension] log: [CT] TURN | Alonzo5638 (after Buckie6400)
+7:51:10 PM [extension] log: [CT] MYHAND | OK actual={"lumber":1,"brick":0,"wool":1,"grain":0,"ore":0} tracked={"lumber":1,"brick":0,"wool":1,"grain":0,"ore":0}
+7:51:10 PM [extension] log: [CT] GAP | missed 172..172
+7:51:10 PM [extension] log: [CT] LOG | 173 | Alonzo5638 rolled <dice_6> <dice_1>
+7:51:18 PM [extension] log: [CT] LOG | 174 | Alonzo5638 moved Robber <robber> to <prob_9> <ore tile>
+7:51:20 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"8","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"2","dev":"0","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"3","dev":"1","knights":"0"},{"name":"Buckie6400","color":"3","hand":"2","dev":"0","knights":"1"}]
+7:51:20 PM [extension] log: [CT] LOG | 175 | Alonzo5638 stole <Resource Card> from MakeSumMoney
+7:51:20 PM [extension] log: [CT] BOX | Alonzo5638 | lumber 3, ore 3, ? 2
+7:51:20 PM [extension] log: [CT] BOX | MakeSumMoney | lumber 2, ? 1
+7:51:31 PM [extension] log: [CT] TRADE | offer open from Alonzo5638: box copy flies to the offer (frame + tab in their colour), original stays
+7:51:31 PM [extension] log: [CT] LOG | 176 | Alonzo5638 wants to give <Lumber> <Lumber> for <Grain>
+7:51:42 PM [extension] log: [CT] TRADE | no offer open
+7:51:45 PM [extension] log: [CT] TRADE | offer open from Alonzo5638: box copy flies to the offer (frame + tab in their colour), original stays
+7:51:45 PM [extension] log: [CT] LOG | 177 | Alonzo5638 wants to give <Lumber> <Lumber> <Lumber> for <Grain>
+7:51:56 PM [extension] log: [CT] TRADE | no offer open
+7:52:06 PM [extension] log: [CT] TRADE | offer open from Alonzo5638: box copy flies to the offer (frame + tab in their colour), original stays
+7:52:06 PM [extension] log: [CT] LOG | 178 | Alonzo5638 wants to give <Lumber> for <Any Resource>
+7:52:10 PM [extension] log: [CT] TRADE | no offer open
+7:52:12 PM [extension] log: [CT] TRADE | offer open from Alonzo5638: box copy flies to the offer (frame + tab in their colour), original stays
+7:52:12 PM [extension] log: [CT] LOG | 179 | Alonzo5638 wants to give <Lumber> <Lumber> for <Any Resource>
+7:52:16 PM [extension] log: [CT] TRADE | no offer open
+7:52:18 PM [extension] log: [CT] TURN | Hebbe7723 (after Alonzo5638)
+7:52:19 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"11","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"2","dev":"0","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"5","dev":"1","knights":"0"},{"name":"Buckie6400","color":"3","hand":"2","dev":"0","knights":"1"}]
+7:52:19 PM [extension] log: [CT] GAP | missed 180..180
+7:52:19 PM [extension] log: [CT] LOG | 181 | Hebbe7723 rolled <dice_1> <dice_5>
+7:52:19 PM [extension] log: [CT] LOG | 182 | MakeSumMoney got <Lumber> <Lumber>
+7:52:19 PM [extension] log: [CT] LOG | 183 | Alonzo5638 got <Grain> <Grain> <Grain>
+7:52:19 PM [extension] log: [CT] BOX | Alonzo5638 | lumber 3, grain 3, ore 3, ? 2
+7:52:19 PM [extension] log: [CT] BOX | MakeSumMoney | lumber 4, ? 1
+7:52:21 PM [extension] log: [CT] TURN | MakeSumMoney (after Hebbe7723)
+7:52:22 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"11","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"3","dev":"0","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"7","dev":"1","knights":"0"},{"name":"Buckie6400","color":"3","hand":"3","dev":"0","knights":"1"}]
+7:52:22 PM [extension] log: [CT] GAP | missed 184..184
+7:52:22 PM [extension] log: [CT] LOG | 185 | MakeSumMoney rolled <dice_1> <dice_2>
+7:52:22 PM [extension] log: [CT] LOG | 186 | Buckie6400 got <Wool>
+7:52:22 PM [extension] log: [CT] LOG | 187 | MakeSumMoney got <Ore> <Wool>
+7:52:22 PM [extension] log: [CT] LOG | 188 | Hebbe7723 got <Ore>
+7:52:22 PM [extension] log: [CT] BOX | Hebbe7723 | grain 1, ore 2
+7:52:22 PM [extension] log: [CT] BOX | MakeSumMoney | lumber 4, wool 1, ore 1, ? 1
+7:52:24 PM [extension] log: [CT] MYHAND | OK actual={"lumber":1,"brick":0,"wool":2,"grain":0,"ore":0} tracked={"lumber":1,"brick":0,"wool":2,"grain":0,"ore":0}
+7:52:31 PM [extension] log: [CT] TRADE | offer open from MakeSumMoney: box copy flies to the offer (frame + tab in their colour), original stays
+7:52:31 PM [extension] log: [CT] LOG | 189 | MakeSumMoney wants to give <Lumber> for <Brick>
+7:52:31 PM [extension] log: [CT] WARN | 189 | MakeSumMoney asked for brick, but no opponent can hold one by our tracking and you hold 0: the tracker lost a brick | your hand actual {"lumber":1,"brick":0,"wool":2,"grain":0,"ore":0} tracked {"lumber":1,"brick":0,"wool":2,"grain":0,"ore":0}
+7:52:31 PM [extension] log: [CT] WARN | 189 | MakeSumMoney asked for brick, but by the log no hand holds any (colonist refuses such offers): missed rows?
+7:52:39 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"11","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"3","dev":"0","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"4","dev":"1","knights":"0"},{"name":"Buckie6400","color":"3","hand":"3","dev":"0","knights":"1"}]
+7:52:39 PM [extension] log: [CT] TRADE | no offer open
+7:52:39 PM [extension] log: [CT] LOG | 190 | MakeSumMoney gave bank <Lumber> <Lumber> <Lumber> <Lumber> and took <Brick>
+7:52:39 PM [extension] log: [CT] BOX | MakeSumMoney | brick 1, wool 1, ore 1, ? 1
+7:52:43 PM [extension] log: [CT] TURN | Buckie6400 (after MakeSumMoney)
+7:52:43 PM [extension] log: [CT] DICE | your roll: boxes over the dice slide aside (dice found; classes: dice-M9xGB5i5 / dice-M9xGB5i5)
+7:52:45 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"13","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"5","dev":"0","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"4","dev":"1","knights":"0"},{"name":"Buckie6400","color":"3","hand":"6","dev":"0","knights":"1"}]
+7:52:45 PM [extension] log: [CT] GAP | missed 191..191
+7:52:45 PM [extension] log: [CT] LOG | 192 | Buckie6400 rolled <dice_4> <dice_6>
+7:52:45 PM [extension] log: [CT] DICE | rolled: boxes back
+7:52:45 PM [extension] log: [CT] VP | MakeSumMoney: card 1 66% (held 4) | blink
+7:52:45 PM [extension] log: [CT] LOG | 193 | Buckie6400 got <Wool> <Wool> <Brick>
+7:52:45 PM [extension] log: [CT] LOG | 194 | Alonzo5638 got <Brick> <Brick>
+7:52:45 PM [extension] log: [CT] LOG | 195 | Hebbe7723 got <Wool> <Brick>
+7:52:45 PM [extension] log: [CT] BOX | Alonzo5638 | lumber 3, brick 2, grain 3, ore 3, ? 2
+7:52:45 PM [extension] log: [CT] BOX | Hebbe7723 | brick 1, wool 1, grain 1, ore 2
+7:52:46 PM [extension] log: [CT] MYHAND | OK actual={"lumber":1,"brick":1,"wool":4,"grain":0,"ore":0} tracked={"lumber":1,"brick":1,"wool":4,"grain":0,"ore":0}
+7:52:56 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"13","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"5","dev":"0","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"4","dev":"1","knights":"0"},{"name":"Buckie6400","color":"3","hand":"4","dev":"0","knights":"1"}]
+7:52:56 PM [extension] log: [CT] LOG | 196 | Buckie6400 built a Road <road>
+7:52:58 PM [extension] log: [CT] MYHAND | OK actual={"lumber":0,"brick":0,"wool":4,"grain":0,"ore":0} tracked={"lumber":0,"brick":0,"wool":4,"grain":0,"ore":0}
+7:53:05 PM [extension] log: [CT] LOG | 197 | Buckie6400 wants to give <Wool> for <Lumber> <Brick>
+7:53:13 PM [extension] log: [CT] LOG | 198 | Alonzo5638 proposed counter offer to Buckie6400 , offering <Lumber> for <Wool>
+7:53:17 PM [extension] log: [CT] LOG | 199 | Buckie6400 wants to give <Wool> <Wool> for <Lumber> <Brick>
+7:53:34 PM [extension] log: [CT] TURN | Alonzo5638 (after Buckie6400)
+7:53:36 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"16","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"5","dev":"0","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"6","dev":"1","knights":"0"},{"name":"Buckie6400","color":"3","hand":"4","dev":"0","knights":"1"}]
+7:53:36 PM [extension] log: [CT] GAP | missed 200..200
+7:53:36 PM [extension] log: [CT] LOG | 201 | Alonzo5638 rolled <dice_3> <dice_3>
+7:53:36 PM [extension] log: [CT] LOG | 202 | MakeSumMoney got <Lumber> <Lumber>
+7:53:36 PM [extension] log: [CT] LOG | 203 | Alonzo5638 got <Grain> <Grain> <Grain>
+7:53:36 PM [extension] log: [CT] BOX | Alonzo5638 | lumber 3, brick 2, grain 6, ore 3, ? 2
+7:53:36 PM [extension] log: [CT] BOX | MakeSumMoney | lumber 2, brick 1, wool 1, ore 1, ? 1
+7:53:47 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"13","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"5","dev":"0","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"6","dev":"1","knights":"0"},{"name":"Buckie6400","color":"3","hand":"4","dev":"0","knights":"1"}]
+7:53:47 PM [extension] log: [CT] LOG | 204 | Alonzo5638 gave bank <Grain> <Grain> <Grain> <Grain> and took <Wool>
+7:53:47 PM [extension] log: [CT] BOX | Alonzo5638 | lumber 3, brick 2, wool 1, grain 2, ore 3, ? 2
+7:53:48 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"11","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"5","dev":"0","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"6","dev":"1","knights":"0"},{"name":"Buckie6400","color":"3","hand":"4","dev":"0","knights":"1"}]
+7:53:48 PM [extension] log: [CT] LOG | 205 | Alonzo5638 built a Road <road>
+7:53:48 PM [extension] log: [CT] BOX | Alonzo5638 | lumber 2, brick 1, wool 1, grain 2, ore 3, ? 2
+7:53:50 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"7","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"5","dev":"0","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"6","dev":"1","knights":"0"},{"name":"Buckie6400","color":"3","hand":"4","dev":"0","knights":"1"}]
+7:53:50 PM [extension] log: [CT] LOG | 206 | Alonzo5638 built a Settlement <settlement> ( +1 VP )
+7:53:50 PM [extension] log: [CT] BOX | Alonzo5638 | lumber 1, grain 1, ore 3, ? 2
+7:53:55 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"2","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"5","dev":"0","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"6","dev":"1","knights":"0"},{"name":"Buckie6400","color":"3","hand":"4","dev":"0","knights":"1"}]
+7:53:55 PM [extension] log: [CT] LOG | 207 | Alonzo5638 built a City <city> ( +1 VP )
+7:53:55 PM [extension] log: [CT] BOX | Alonzo5638 | lumber 1, ? 1
+7:53:56 PM [extension] log: [CT] TURN | Hebbe7723 (after Alonzo5638)
+7:53:58 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"6","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"5","dev":"0","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"6","dev":"1","knights":"0"},{"name":"Buckie6400","color":"3","hand":"5","dev":"0","knights":"1"}]
+7:53:58 PM [extension] log: [CT] GAP | missed 208..208
+7:53:58 PM [extension] log: [CT] LOG | 209 | Hebbe7723 rolled <dice_2> <dice_3>
+7:53:58 PM [extension] log: [CT] LOG | 210 | Buckie6400 got <Lumber>
+7:53:58 PM [extension] log: [CT] LOG | 211 | Alonzo5638 got <Ore> <Ore> <Lumber> <Lumber>
+7:53:58 PM [extension] log: [CT] BOX | Alonzo5638 | lumber 3, ore 2, ? 1
+7:53:59 PM [extension] log: [CT] MYHAND | OK actual={"lumber":1,"brick":0,"wool":4,"grain":0,"ore":0} tracked={"lumber":1,"brick":0,"wool":4,"grain":0,"ore":0}
+7:54:08 PM [extension] log: [CT] TRADE | offer open from Hebbe7723: box copy flies to the offer (frame + tab in their colour), original stays
+7:54:08 PM [extension] log: [CT] LOG | 212 | Hebbe7723 wants to give <Wool> for <Ore>
+7:54:19 PM [extension] log: [CT] TRADE | no offer open
+7:54:21 PM [extension] log: [CT] TRADE | offer open from Hebbe7723: box copy flies to the offer (frame + tab in their colour), original stays
+7:54:21 PM [extension] log: [CT] LOG | 213 | Hebbe7723 wants to give <Wool> for <Grain>
+7:54:31 PM [extension] log: [CT] TRADE | no offer open
+7:54:31 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"6","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"2","dev":"1","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"6","dev":"1","knights":"0"},{"name":"Buckie6400","color":"3","hand":"5","dev":"0","knights":"1"}]
+7:54:31 PM [extension] log: [CT] LOG | 214 | Hebbe7723 bought <Development Card>
+7:54:31 PM [extension] log: [CT] DEV | Hebbe7723 bought (22 left): deck before Knight 56%, Victory Point 19%, Road Building 9%, Year of Plenty 9%, Monopoly 8% | their new card Knight 56%, Victory Point 19%, Road Building 9%, Year of Plenty 9%, Monopoly 8%
+7:54:31 PM [extension] log: [CT] BOX | Hebbe7723 | brick 1, ore 1
+7:54:32 PM [extension] log: [CT] TURN | MakeSumMoney (after Hebbe7723)
+7:54:36 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"6","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"4","dev":"1","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"7","dev":"1","knights":"0"},{"name":"Buckie6400","color":"3","hand":"5","dev":"0","knights":"1"}]
+7:54:36 PM [extension] log: [CT] GAP | missed 215..215
+7:54:36 PM [extension] log: [CT] LOG | 216 | MakeSumMoney rolled <dice_3> <dice_1>
+7:54:36 PM [extension] log: [CT] LOG | 217 | MakeSumMoney got <Wool>
+7:54:36 PM [extension] log: [CT] LOG | 218 | Hebbe7723 got <Lumber> <Lumber>
+7:54:36 PM [extension] log: [CT] BOX | Hebbe7723 | lumber 2, brick 1, ore 1
+7:54:36 PM [extension] log: [CT] BOX | MakeSumMoney | lumber 2, brick 1, wool 2, ore 1, ? 1
+7:54:44 PM [extension] log: [CT] TRADE | offer open from MakeSumMoney: box copy flies to the offer (frame + tab in their colour), original stays
+7:54:44 PM [extension] log: [CT] LOG | 219 | MakeSumMoney wants to give <Lumber> for <Brick>
+7:54:53 PM [extension] log: [CT] TRADE | no offer open
+7:54:55 PM [extension] log: [CT] TRADE | offer open from MakeSumMoney: box copy flies to the offer (frame + tab in their colour), original stays
+7:54:55 PM [extension] log: [CT] LOG | 220 | MakeSumMoney wants to give <Ore> for <Brick>
+7:55:07 PM [extension] log: [CT] TRADE | no offer open
+7:55:17 PM [extension] log: [CT] TURN | Buckie6400 (after MakeSumMoney)
+7:55:17 PM [extension] log: [CT] DICE | your roll: boxes over the dice slide aside (dice found; classes: dice-M9xGB5i5 / dice-M9xGB5i5)
+7:55:18 PM [extension] log: [CT] GAP | missed 221..221
+7:55:18 PM [extension] log: [CT] LOG | 222 | Buckie6400 rolled <dice_3> <dice_4>
+7:55:18 PM [extension] log: [CT] DICE | rolled: boxes back
+7:55:18 PM [extension] log: [CT] VP | MakeSumMoney: card 1 74% (held 5) | blink
+7:55:29 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"5","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"4","dev":"1","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"7","dev":"1","knights":"0"},{"name":"Buckie6400","color":"3","hand":"6","dev":"0","knights":"1"}]
+7:55:29 PM [extension] log: [CT] LOG | 223 | Buckie6400 moved Robber <robber> to <prob_6> <grain tile>
+7:55:29 PM [extension] log: [CT] LOG | 224 | You stole <Ore> from Alonzo5638
+7:55:29 PM [extension] log: [CT] BOX | Alonzo5638 | lumber 3, ore 1, ? 1
+7:55:31 PM [extension] log: [CT] MYHAND | OK actual={"lumber":1,"brick":0,"wool":4,"grain":0,"ore":1} tracked={"lumber":1,"brick":0,"wool":4,"grain":0,"ore":1}
+7:55:37 PM [extension] log: [CT] LOG | 225 | Buckie6400 wants to give <Wool> for <Brick>
+7:55:57 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"5","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"4","dev":"1","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"7","dev":"1","knights":"0"},{"name":"Buckie6400","color":"3","hand":"4","dev":"0","knights":"1"}]
+7:55:57 PM [extension] log: [CT] LOG | 226 | Buckie6400 gave bank <Wool> <Wool> <Wool> and took <Brick>
+7:55:58 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"5","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"4","dev":"1","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"7","dev":"1","knights":"0"},{"name":"Buckie6400","color":"3","hand":"2","dev":"0","knights":"1"}]
+7:55:58 PM [extension] log: [CT] LOG | 227 | Buckie6400 built a Road <road>
+7:56:00 PM [extension] log: [CT] MYHAND | OK actual={"lumber":0,"brick":0,"wool":1,"grain":0,"ore":1} tracked={"lumber":0,"brick":0,"wool":1,"grain":0,"ore":1}
+7:56:00 PM [extension] log: [CT] TURN | Alonzo5638 (after Buckie6400)
+7:56:02 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"9","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"4","dev":"1","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"7","dev":"1","knights":"0"},{"name":"Buckie6400","color":"3","hand":"3","dev":"0","knights":"1"}]
+7:56:02 PM [extension] log: [CT] GAP | missed 228..228
+7:56:02 PM [extension] log: [CT] LOG | 229 | Alonzo5638 rolled <dice_4> <dice_1>
+7:56:02 PM [extension] log: [CT] LOG | 230 | Buckie6400 got <Lumber>
+7:56:02 PM [extension] log: [CT] LOG | 231 | Alonzo5638 got <Ore> <Ore> <Lumber> <Lumber>
+7:56:02 PM [extension] log: [CT] BOX | Alonzo5638 | lumber 5, ore 3, ? 1
+7:56:03 PM [extension] log: [CT] MYHAND | OK actual={"lumber":1,"brick":0,"wool":1,"grain":0,"ore":1} tracked={"lumber":1,"brick":0,"wool":1,"grain":0,"ore":1}
+7:56:09 PM [extension] log: [CT] TRADE | offer open from Alonzo5638: box copy flies to the offer (frame + tab in their colour), original stays
+7:56:09 PM [extension] log: [CT] LOG | 232 | Alonzo5638 wants to give <Lumber> <Lumber> for <Brick>
+7:56:17 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"6","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"4","dev":"1","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"7","dev":"1","knights":"0"},{"name":"Buckie6400","color":"3","hand":"3","dev":"0","knights":"1"}]
+7:56:17 PM [extension] log: [CT] TRADE | no offer open
+7:56:17 PM [extension] log: [CT] LOG | 233 | Alonzo5638 gave bank <Lumber> <Lumber> <Lumber> <Lumber> and took <Brick>
+7:56:17 PM [extension] log: [CT] BOX | Alonzo5638 | lumber 1, brick 1, ore 3, ? 1
+7:56:19 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"4","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"4","dev":"1","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"7","dev":"1","knights":"0"},{"name":"Buckie6400","color":"3","hand":"3","dev":"0","knights":"1"}]
+7:56:19 PM [extension] log: [CT] LOG | 234 | Alonzo5638 built a Road <road>
+7:56:19 PM [extension] log: [CT] BOX | Alonzo5638 | ore 3, ? 1
+7:56:21 PM [extension] log: [CT] TURN | Hebbe7723 (after Alonzo5638)
+7:56:25 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"6","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"6","dev":"1","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"7","dev":"1","knights":"0"},{"name":"Buckie6400","color":"3","hand":"6","dev":"0","knights":"1"}]
+7:56:25 PM [extension] log: [CT] GAP | missed 235..235
+7:56:25 PM [extension] log: [CT] LOG | 236 | Hebbe7723 rolled <dice_5> <dice_5>
+7:56:25 PM [extension] log: [CT] LOG | 237 | Buckie6400 got <Wool> <Wool> <Brick>
+7:56:25 PM [extension] log: [CT] LOG | 238 | Alonzo5638 got <Brick> <Brick>
+7:56:25 PM [extension] log: [CT] LOG | 239 | Hebbe7723 got <Wool> <Brick>
+7:56:25 PM [extension] log: [CT] BOX | Alonzo5638 | brick 2, ore 3, ? 1
+7:56:25 PM [extension] log: [CT] BOX | Hebbe7723 | lumber 2, brick 2, wool 1, ore 1
+7:56:26 PM [extension] log: [CT] MYHAND | OK actual={"lumber":1,"brick":1,"wool":3,"grain":0,"ore":1} tracked={"lumber":1,"brick":1,"wool":3,"grain":0,"ore":1}
+7:57:07 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"6","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"4","dev":"1","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"7","dev":"1","knights":"0"},{"name":"Buckie6400","color":"3","hand":"6","dev":"0","knights":"1"}]
+7:57:07 PM [extension] log: [CT] LOG | 240 | Hebbe7723 built a Road <road>
+7:57:07 PM [extension] log: [CT] BOX | Hebbe7723 | lumber 1, brick 1, wool 1, ore 1
+7:57:08 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"6","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"2","dev":"1","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"7","dev":"1","knights":"0"},{"name":"Buckie6400","color":"3","hand":"6","dev":"0","knights":"1"}]
+7:57:08 PM [extension] log: [CT] LOG | 241 | Hebbe7723 built a Road <road>
+7:57:08 PM [extension] log: [CT] BOX | Hebbe7723 | wool 1, ore 1
+7:57:09 PM [extension] log: [CT] TURN | MakeSumMoney (after Hebbe7723)
+7:57:10 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"8","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"4","dev":"1","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"7","dev":"1","knights":"0"},{"name":"Buckie6400","color":"3","hand":"9","dev":"0","knights":"1"}]
+7:57:10 PM [extension] log: [CT] GAP | missed 242..242
+7:57:10 PM [extension] log: [CT] LOG | 243 | MakeSumMoney rolled <dice_4> <dice_6>
+7:57:10 PM [extension] log: [CT] LOG | 244 | Buckie6400 got <Wool> <Wool> <Brick>
+7:57:10 PM [extension] log: [CT] LOG | 245 | Alonzo5638 got <Brick> <Brick>
+7:57:10 PM [extension] log: [CT] LOG | 246 | Hebbe7723 got <Wool> <Brick>
+7:57:10 PM [extension] log: [CT] BOX | Alonzo5638 | brick 4, ore 3, ? 1
+7:57:10 PM [extension] log: [CT] BOX | Hebbe7723 | brick 1, wool 2, ore 1
+7:57:10 PM [extension] log: [CT] LOG | 1 | Alonzo5638 : Pls hurry up
+7:57:12 PM [extension] log: [CT] MYHAND | OK actual={"lumber":1,"brick":2,"wool":5,"grain":0,"ore":1} tracked={"lumber":1,"brick":2,"wool":5,"grain":0,"ore":1}
+7:57:15 PM [extension] log: [CT] TURN | Buckie6400 (after MakeSumMoney)
+7:57:15 PM [extension] log: [CT] DICE | your roll: boxes over the dice slide aside (dice found; classes: dice-M9xGB5i5 / dice-M9xGB5i5)
+7:57:16 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"8","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"4","dev":"1","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"9","dev":"1","knights":"0"},{"name":"Buckie6400","color":"3","hand":"9","dev":"0","knights":"1"}]
+7:57:16 PM [extension] log: [CT] GAP | missed 247..247
+7:57:16 PM [extension] log: [CT] LOG | 248 | Buckie6400 rolled <dice_5> <dice_1>
+7:57:16 PM [extension] log: [CT] DICE | rolled: boxes back
+7:57:16 PM [extension] log: [CT] VP | MakeSumMoney: card 1 80% (held 6) | blink
+7:57:16 PM [extension] log: [CT] LOG | 249 | <prob_6> <grain tile> is blocked by the Robber. No resources produced
+7:57:16 PM [extension] log: [CT] LOG | 250 | MakeSumMoney got <Lumber> <Lumber>
+7:57:16 PM [extension] log: [CT] BOX | MakeSumMoney | lumber 4, brick 1, wool 2, ore 1, ? 1
+7:57:30 PM [extension] log: [CT] LOG | 251 | Alonzo5638 has disconnected. A bot will take over next turn unless Alonzo5638 reconnects.
+7:57:33 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"8","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"4","dev":"1","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"9","dev":"1","knights":"0"},{"name":"Buckie6400","color":"3","hand":"7","dev":"0","knights":"1"}]
+7:57:33 PM [extension] log: [CT] LOG | 252 | Buckie6400 gave bank <Wool> <Wool> <Wool> and took <Grain>
+7:57:35 PM [extension] log: [CT] MYHAND | OK actual={"lumber":1,"brick":2,"wool":2,"grain":1,"ore":1} tracked={"lumber":1,"brick":2,"wool":2,"grain":1,"ore":1}
+7:57:35 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"8","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"4","dev":"1","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"9","dev":"1","knights":"0"},{"name":"Buckie6400","color":"3","hand":"3","dev":"0","knights":"1"}]
+7:57:35 PM [extension] log: [CT] LOG | 253 | Buckie6400 built a Settlement <settlement> ( +1 VP )
+7:57:37 PM [extension] log: [CT] MYHAND | OK actual={"lumber":0,"brick":1,"wool":1,"grain":0,"ore":1} tracked={"lumber":0,"brick":1,"wool":1,"grain":0,"ore":1}
+7:57:38 PM [extension] log: [CT] TURN | Alonzo5638 (after Buckie6400)
+7:57:43 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"10","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"4","dev":"1","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"9","dev":"1","knights":"0"},{"name":"Buckie6400","color":"3","hand":"3","dev":"0","knights":"1"}]
+7:57:43 PM [extension] log: [CT] GAP | missed 254..254
+7:57:43 PM [extension] log: [CT] LOG | 255 | Alonzo5638 rolled <dice_6> <dice_6>
+7:57:43 PM [extension] log: [CT] LOG | 256 | Alonzo5638 got <Brick> <Brick>
+7:57:43 PM [extension] log: [CT] BOX | Alonzo5638 | brick 6, ore 3, ? 1
+7:58:08 PM [extension] log: [CT] LOG | 257 | Alonzo5638 has reconnected
+7:58:21 PM [extension] log: [CT] TRADE | offer open from Alonzo5638: box copy flies to the offer (frame + tab in their colour), original stays
+7:58:21 PM [extension] log: [CT] LOG | 258 | Alonzo5638 wants to give <Brick> for <Lumber>
+7:58:24 PM [extension] log: [CT] LOG | 259 | Alonzo5638 wants to give <Brick> for <Wool>
+7:58:25 PM [extension] log: [CT] TRADE | no offer open
+7:58:25 PM [extension] log: [CT] LOG | 260 | Alonzo5638 gave <Brick> and got <Lumber> from MakeSumMoney
+7:58:25 PM [extension] log: [CT] BOX | Alonzo5638 | lumber 1, brick 5, ore 3, ? 1
+7:58:25 PM [extension] log: [CT] BOX | MakeSumMoney | lumber 3, brick 2, wool 2, ore 1, ? 1
+7:58:32 PM [extension] log: [CT] TRADE | offer open from Alonzo5638: box copy flies to the offer (frame + tab in their colour), original stays
+7:58:32 PM [extension] log: [CT] LOG | 261 | Alonzo5638 wants to give <Brick> for <Wool>
+7:58:41 PM [extension] log: [CT] LOG | 262 | Alonzo5638 wants to give <Brick> for <Grain>
+7:58:41 PM [extension] log: [CT] WARN | 262 | Alonzo5638 asked for grain, but no opponent can hold one by our tracking and you hold 0: the tracker lost a grain | your hand actual {"lumber":0,"brick":1,"wool":1,"grain":0,"ore":1} tracked {"lumber":0,"brick":1,"wool":1,"grain":0,"ore":1}
+7:58:41 PM [extension] log: [CT] WARN | 262 | Alonzo5638 asked for grain, but by the log no hand holds any (colonist refuses such offers): missed rows?
+7:58:43 PM [extension] log: [CT] LOG | 263 | Hebbe7723 proposed counter offer to Alonzo5638 , offering <Wool> for <Grain>
+7:58:53 PM [extension] log: [CT] TURN | Hebbe7723 (after Alonzo5638)
+7:58:53 PM [extension] log: [CT] TRADE | no offer open
+7:58:55 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"10","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"4","dev":"1","knights":"0"},{"name":"MakeSumMoney","color":"1","hand":"11","dev":"1","knights":"0"},{"name":"Buckie6400","color":"3","hand":"3","dev":"0","knights":"1"}]
+7:58:55 PM [extension] log: [CT] GAP | missed 264..264
+7:58:55 PM [extension] log: [CT] LOG | 265 | Hebbe7723 rolled <dice_3> <dice_3>
+7:58:55 PM [extension] log: [CT] LOG | 266 | <prob_6> <grain tile> is blocked by the Robber. No resources produced
+7:58:55 PM [extension] log: [CT] LOG | 267 | MakeSumMoney got <Lumber> <Lumber>
+7:58:55 PM [extension] log: [CT] BOX | MakeSumMoney | lumber 5, brick 2, wool 2, ore 1, ? 1
+7:59:01 PM [extension] log: [CT] TRADE | offer open from Hebbe7723: box copy flies to the offer (frame + tab in their colour), original stays
+7:59:01 PM [extension] log: [CT] LOG | 268 | Hebbe7723 wants to give <Wool> for <Grain>
+7:59:01 PM [extension] log: [CT] WARN | 268 | Hebbe7723 asked for grain, but no opponent can hold one by our tracking and you hold 0: the tracker lost a grain | your hand actual {"lumber":0,"brick":1,"wool":1,"grain":0,"ore":1} tracked {"lumber":0,"brick":1,"wool":1,"grain":0,"ore":1}
+7:59:01 PM [extension] log: [CT] WARN | 268 | Hebbe7723 asked for grain, but by the log no hand holds any (colonist refuses such offers): missed rows?
+7:59:03 PM [extension] log: [CT] LOG | 269 | Hebbe7723 wants to give <Ore> for <Grain>
+7:59:03 PM [extension] log: [CT] WARN | 269 | Hebbe7723 asked for grain, but no opponent can hold one by our tracking and you hold 0: the tracker lost a grain | your hand actual {"lumber":0,"brick":1,"wool":1,"grain":0,"ore":1} tracked {"lumber":0,"brick":1,"wool":1,"grain":0,"ore":1}
+7:59:03 PM [extension] log: [CT] WARN | 269 | Hebbe7723 asked for grain, but by the log no hand holds any (colonist refuses such offers): missed rows?
+7:59:14 PM [extension] log: [CT] LOG | 270 | Alonzo5638 has disconnected. A bot will take over next turn unless Alonzo5638 reconnects.
+7:59:15 PM [extension] log: [CT] LOG | 271 | Alonzo5638 has reconnected
+7:59:19 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"10","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"4","dev":"0","knights":"1"},{"name":"MakeSumMoney","color":"1","hand":"11","dev":"1","knights":"0"},{"name":"Buckie6400","color":"3","hand":"3","dev":"0","knights":"1"}]
+7:59:19 PM [extension] log: [CT] LOG | 272 | Hebbe7723 used Knight <Knight>
+7:59:23 PM [extension] log: [CT] TRADE | no offer open
+7:59:23 PM [extension] log: [CT] LOG | 273 | Hebbe7723 moved Robber <robber> to <prob_8> <grain tile>
+7:59:24 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"9","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"5","dev":"0","knights":"1"},{"name":"MakeSumMoney","color":"1","hand":"11","dev":"1","knights":"0"},{"name":"Buckie6400","color":"3","hand":"3","dev":"0","knights":"1"}]
+7:59:24 PM [extension] log: [CT] LOG | 274 | Hebbe7723 stole <Resource Card> from Alonzo5638
+7:59:24 PM [extension] log: [CT] BOX | Alonzo5638 | brick 4, ore 2, ? 3
+7:59:24 PM [extension] log: [CT] BOX | Hebbe7723 | brick 1, wool 2, ore 1, ? 1
+7:59:29 PM [extension] log: [CT] TRADE | offer open from Hebbe7723: box copy flies to the offer (frame + tab in their colour), original stays
+7:59:29 PM [extension] log: [CT] LOG | 275 | Hebbe7723 wants to give <Brick> for <Grain>
+7:59:29 PM [extension] log: [CT] WARN | 275 | Hebbe7723 asked for grain, but no opponent can hold one by our tracking and you hold 0: the tracker lost a grain | your hand actual {"lumber":0,"brick":1,"wool":1,"grain":0,"ore":1} tracked {"lumber":0,"brick":1,"wool":1,"grain":0,"ore":1}
+7:59:29 PM [extension] log: [CT] WARN | 275 | Hebbe7723 asked for grain, but by the log no hand holds any (colonist refuses such offers): missed rows?
+7:59:42 PM [extension] log: [CT] TURN | MakeSumMoney (after Hebbe7723)
+7:59:42 PM [extension] log: [CT] TRADE | no offer open
+7:59:42 PM [extension] log: [CT] GAP | missed 276..276
+7:59:42 PM [extension] log: [CT] LOG | 277 | Alonzo5638 has disconnected. A bot will take over next turn unless Alonzo5638 reconnects.
+7:59:44 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"11","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"6","dev":"0","knights":"1"},{"name":"MakeSumMoney","color":"1","hand":"11","dev":"1","knights":"0"},{"name":"Buckie6400","color":"3","hand":"5","dev":"0","knights":"1"}]
+7:59:44 PM [extension] log: [CT] LOG | 278 | MakeSumMoney rolled <dice_5> <dice_6>
+7:59:44 PM [extension] log: [CT] LOG | 279 | Buckie6400 got <Wool> <Grain>
+7:59:44 PM [extension] log: [CT] LOG | 280 | Alonzo5638 got <Wool> <Wool>
+7:59:44 PM [extension] log: [CT] LOG | 281 | Hebbe7723 got <Grain>
+7:59:44 PM [extension] log: [CT] BOX | Alonzo5638 | brick 4, wool 2, ore 2, ? 3
+7:59:44 PM [extension] log: [CT] BOX | Hebbe7723 | brick 1, wool 2, grain 1, ore 1, ? 1
+7:59:45 PM [extension] log: [CT] LOG | 282 | Alonzo5638 has reconnected
+7:59:49 PM [extension] log: [CT] MYHAND | OK actual={"lumber":0,"brick":1,"wool":2,"grain":1,"ore":1} tracked={"lumber":0,"brick":1,"wool":2,"grain":1,"ore":1}
+8:00:02 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"11","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"6","dev":"0","knights":"1"},{"name":"MakeSumMoney","color":"1","hand":"8","dev":"1","knights":"0"},{"name":"Buckie6400","color":"3","hand":"5","dev":"0","knights":"1"}]
+8:00:03 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"11","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"6","dev":"0","knights":"1"},{"name":"MakeSumMoney","color":"1","hand":"5","dev":"2","knights":"0"},{"name":"Buckie6400","color":"3","hand":"5","dev":"0","knights":"1"}]
+8:00:05 PM [extension] log: [CT] DRIFT | (no world matches the panel),MakeSumMoney
+8:00:06 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"11","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"6","dev":"0","knights":"1"},{"name":"MakeSumMoney","color":"1","hand":"3","dev":"2","knights":"0"},{"name":"Buckie6400","color":"3","hand":"5","dev":"0","knights":"1"}]
+8:00:06 PM [extension] log: [CT] LOG | 283 | MakeSumMoney gave bank <Lumber> <Lumber> <Lumber> <Lumber> and took <Grain>
+8:00:06 PM [extension] log: [CT] BOX | MakeSumMoney | lumber 1, brick 2, wool 2, grain 1, ore 1, ? 1
+8:00:06 PM [extension] log: [CT] LOG | 284 | MakeSumMoney bought <Development Card>
+8:00:06 PM [extension] log: [CT] DEV | MakeSumMoney bought (21 left): deck before Knight 54%, Victory Point 19%, Road Building 9%, Year of Plenty 9%, Monopoly 9% | their new card Knight 54%, Victory Point 19%, Road Building 9%, Year of Plenty 9%, Monopoly 9%
+8:00:06 PM [extension] log: [CT] BOX | MakeSumMoney | lumber 1, brick 2, wool 1, ? 1
+8:00:06 PM [extension] log: [CT] VP | MakeSumMoney: card 1 81% (held 6)
+8:00:06 PM [extension] log: [CT] LOG | 285 | Alonzo5638 has disconnected. A bot will take over next turn unless Alonzo5638 reconnects.
+8:00:06 PM [extension] log: [CT] LOG | 286 | MakeSumMoney built a Road <road>
+8:00:06 PM [extension] log: [CT] BOX | MakeSumMoney | brick 1, wool 1, ? 1
+8:00:13 PM [extension] log: [CT] TURN | Buckie6400 (after MakeSumMoney)
+8:00:13 PM [extension] log: [CT] DICE | your roll: boxes over the dice slide aside (dice found; classes: dice-M9xGB5i5 / dice-M9xGB5i5)
+8:00:17 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"15","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"6","dev":"0","knights":"1"},{"name":"MakeSumMoney","color":"1","hand":"5","dev":"2","knights":"0"},{"name":"Buckie6400","color":"3","hand":"5","dev":"0","knights":"1"}]
+8:00:17 PM [extension] log: [CT] GAP | missed 287..287
+8:00:17 PM [extension] log: [CT] LOG | 288 | Buckie6400 rolled <dice_3> <dice_3>
+8:00:17 PM [extension] log: [CT] DICE | rolled: boxes back
+8:00:17 PM [extension] log: [CT] LOG | 289 | MakeSumMoney got <Lumber> <Lumber>
+8:00:17 PM [extension] log: [CT] LOG | 290 | Alonzo5638 got <Grain> <Grain> <Grain> <Grain>
+8:00:17 PM [extension] log: [CT] BOX | Alonzo5638 | brick 4, wool 2, grain 4, ore 2, ? 3
+8:00:17 PM [extension] log: [CT] BOX | MakeSumMoney | lumber 2, brick 1, wool 1, ? 1
+8:00:24 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"15","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"6","dev":"0","knights":"1"},{"name":"MakeSumMoney","color":"1","hand":"5","dev":"2","knights":"0"},{"name":"Buckie6400","color":"3","hand":"2","dev":"1","knights":"1"}]
+8:00:24 PM [extension] log: [CT] LOG | 291 | Buckie6400 bought <Development Card>
+8:00:24 PM [extension] log: [CT] DEV | Buckie6400 bought (20 left): deck before Knight 54%, Victory Point 19%, Road Building 9%, Year of Plenty 9%, Monopoly 9% | their new card (yours: known) | COUNTS OFF: 23 unaccounted vs 20 in the deck + 2 held
+8:00:25 PM [extension] log: [CT] MYHAND | OK actual={"lumber":0,"brick":1,"wool":1,"grain":0,"ore":0} tracked={"lumber":0,"brick":1,"wool":1,"grain":0,"ore":0}
+8:00:25 PM [extension] log: [CT] TURN | Alonzo5638 (after Buckie6400)
+8:00:26 PM [extension] log: [CT] MYDEV | {"Knight":1}
+8:00:29 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"19","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"6","dev":"0","knights":"1"},{"name":"MakeSumMoney","color":"1","hand":"7","dev":"2","knights":"0"},{"name":"Buckie6400","color":"3","hand":"2","dev":"1","knights":"1"}]
+8:00:29 PM [extension] log: [CT] GAP | missed 292..292
+8:00:29 PM [extension] log: [CT] LOG | 293 | Alonzo5638 rolled <dice_4> <dice_2>
+8:00:29 PM [extension] log: [CT] LOG | 294 | MakeSumMoney got <Lumber> <Lumber>
+8:00:29 PM [extension] log: [CT] LOG | 295 | Alonzo5638 got <Grain> <Grain> <Grain> <Grain>
+8:00:29 PM [extension] log: [CT] BOX | Alonzo5638 | brick 4, wool 2, grain 8, ore 2, ? 3
+8:00:29 PM [extension] log: [CT] BOX | MakeSumMoney | lumber 4, brick 1, wool 1, ? 1
+8:00:59 PM [extension] log: [CT] LOG | 296 | Alonzo5638 has reconnected
+8:01:05 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"15","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"6","dev":"0","knights":"1"},{"name":"MakeSumMoney","color":"1","hand":"7","dev":"2","knights":"0"},{"name":"Buckie6400","color":"3","hand":"2","dev":"1","knights":"1"}]
+8:01:05 PM [extension] log: [CT] LOG | 297 | Alonzo5638 built a Settlement <settlement> ( +1 VP )
+8:01:05 PM [extension] log: [CT] BOX | Alonzo5638 | brick 3, wool 1, grain 7, ore 2, ? 2
+8:01:08 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"10","dev":"0","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"6","dev":"0","knights":"1"},{"name":"MakeSumMoney","color":"1","hand":"7","dev":"2","knights":"0"},{"name":"Buckie6400","color":"3","hand":"2","dev":"1","knights":"1"}]
+8:01:08 PM [extension] log: [CT] LOG | 298 | Alonzo5638 built a City <city> ( +1 VP )
+8:01:08 PM [extension] log: [CT] BOX | Alonzo5638 | brick 3, wool 1, grain 5, ? 1
+8:01:13 PM [extension] log: [CT] LOG | 299 | MakeSumMoney has disconnected. A bot will take over next turn unless MakeSumMoney reconnects.
+8:01:29 PM [extension] log: [CT] PANEL | [{"name":"Alonzo5638","color":"2","hand":"7","dev":"1","knights":"0"},{"name":"Hebbe7723","color":"4","hand":"6","dev":"0","knights":"1"},{"name":"MakeSumMoney","color":"1","hand":"7","dev":"2","knights":"0"},{"name":"Buckie6400","color":"3","hand":"2","dev":"1","knights":"1"}]
+8:01:29 PM [extension] log: [CT] LOG | 300 | Alonzo5638 bought <Development Card>
+8:01:29 PM [extension] log: [CT] DEV | Alonzo5638 bought (19 left): deck before Knight 52%, Victory Point 20%, Road Building 9%, Year of Plenty 10%, Monopoly 9% | their new card Knight 52%, Victory Point 20%, Road Building 9%, Year of Plenty 10%, Monopoly 9%
+8:01:29 PM [extension] log: [CT] BOX | Alonzo5638 | brick 3, grain 4
+8:01:29 PM [extension] log: [CT] BOX | Hebbe7723 | brick 2, wool 2, grain 1, ore 1
+8:01:29 PM [extension] log: [CT] BOX | MakeSumMoney | lumber 5, brick 1, wool 1
+8:01:29 PM [extension] log: [CT] GAP | missed 301..301
+8:01:29 PM [extension] log: [CT] LOG | 302 | <trophy> Alonzo5638 won the game! <trophy>
+8:01:31 PM [extension] log: [CT] GAP | missed 303..303
+8:01:31 PM [extension] log: [CT] LOG | 304 | Alonzo5638 has left the game
+8:01:33 PM [extension] log: [CT] loaded v13
+8:01:33 PM [extension] log: [CT] ENV | extension 1.2 | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36 | screen 1536x960, window 1538x827, zoom 1.25 | https://colonist.io/
